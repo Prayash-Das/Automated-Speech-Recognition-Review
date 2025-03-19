@@ -1,6 +1,6 @@
 # Automated Speech Recognition - Review Paper
 
-![ASR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.nvidia.com%2Fblog%2Fsolving-automatic-speech-recognition-deployment-challenges%2F&psig=AOvVaw3jK-7pDw2a_4uOGonYuLeG&ust=1742494860990000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDG_q_hlowDFQAAAAAdAAAAABAa)
+![ASR](pic.png)
 
 ## 📄 Overview
 This repository contains a review paper on **Automated Speech Recognition (ASR)**, exploring its challenges, methodologies, and key algorithms used in virtual assistants like **Siri, Google Assistant, and Alexa**.
